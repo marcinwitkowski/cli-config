@@ -1,0 +1,37 @@
+Host titan
+  User mwitkowski
+  Hostname 149.156.121.195
+Host wonski
+  User mwitkowski
+  Hostname 149.156.121.122
+Host galaxy
+  User witkow
+  Hostname home.agh.edu.pl
+Host phaser
+  User mwitkowski
+  Hostname 149.156.121.196
+Host gruby
+  User mwitkowski
+  Hostname 149.156.121.217
+Host zeus
+  User plgmwitkowski
+  Hostname zeus.cyfronet.pl 
+Host prom2
+  User plgmwitkowski
+  Hostname login02.prometheus.cyfronet.pl
+Host prom1
+  User plgmwitkowski
+  Hostname login01.prometheus.cyfronet.pl
+Host athena
+  User plgmwitkowski
+  Hostname athena.cyfronet.pl
+Host ares
+  User plgmwitkowski
+  Hostname ares.cyfronet.pl
+Host eva
+  User qwitkowski
+  Hostname eva.fit.vutbr.cz
+Host hal
+  User mwitkowski
+  Hostname 149.156.121.193
+
